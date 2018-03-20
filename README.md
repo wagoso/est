@@ -4,8 +4,8 @@ Lota is currently in early beta testing. There are alot of features currently in
 
 Here are some frequently asked questions that clarify the current beta testing functionality: 
 
-<h2>What is Lota? Why is Lota so different? Why doesn't it conform to colorless, dullness?</h2>
-Lota is about color! Its about celebrating diverse cultural urban expression! 
+<h2>Why is Lota so different? Why doesn't it conform to colorless, dullness?</h2>
+Lota is about color! Its celebrating diverse cultural urban expression! 
 <br>
 <h2>Can I send enriched colorful text and animated stickmojis to anyone on the contacts list, even if they do not have the app?</h2>
 <b>Yes!</b> Lota supports SMS/MMS, as well as Peer to Peer mode. Just click on the contact, type something and hit the send button. The message will be sent via MMS if the contact does not have the app.
@@ -57,13 +57,13 @@ You can optionally customize the drawing by going to the "Draw Settings" screen 
 <h2>How can I send audio blip message?</h2>
 In the Chat screen, select the  "Audio" button to open the Audio blip screen and select the blip to send. Audio blips will not be sent in SMS mode, the contact needs to have the Lota app running.
 <br/>
-<h2>How can I media file (audio/video) or take a picture and send it?</h2>
+<h2>How can I send a media file (audio/video) or take a picture and send it?</h2>
 In the Chat screen, select the  "Upload" button at the top right of the screen and select the "Image", "Audio" or Camera. 
 <br/>
 <h2>What is "Spangle Bangle"?</h2>
 Try it out! the app is still in beta, so cool things just need to be explored!
 <br/>
-<h2>How can automatically send a translatd text message from English to slang or another language?</h2>
+<h2>How can I automatically send a translatd text message from English to slang or another language?</h2>
 In the Chat screen, select the  "Settings" button to the left of the "Upload button"  at the top right of the screen and select the "Slang" (or another language) from the second drop down menu.
 <br/>
 <h2>How can I turn on/off playing audio automatically?</h2>
