@@ -4,6 +4,8 @@ Lota is currently in early beta testing. There are alot of features currently in
 
 Here are some frequently asked questions that clarify the current beta testing functionality: 
 
+<h2>What is Lota? Why is Lota so different? Why doesn't it conform to colorless, dullness?</h2>
+Lota is about color! Its about celebrating diverse cultural urban expression! 
 <br>
 <h2>Can I send enriched colorful text and animated stickmojis to anyone on the contacts list, even if they do not have the app?</h2>
 <b>Yes!</b> Lota supports SMS/MMS, as well as Peer to Peer mode. Just click on the contact, type something and hit the send button. The message will be sent via MMS if the contact does not have the app.
@@ -69,3 +71,4 @@ In the Chat screen, select the  "Settings" button to the left of the "Upload but
 <br/>
 <h2>How can I establish secure direct peer-to-peer connection for texting?</h2>
 If the contact has Lota app running, then you can establish the P2P connection in the Chat screen, select the  "Try Connect P2P" option. It will attempt to esablish a P2P connection. If successful, a "Success" message will display. 
+<br/>
