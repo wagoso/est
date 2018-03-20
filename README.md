@@ -5,7 +5,7 @@ Lota is currently in early beta testing. There are alot of features currently in
 Here are some frequently asked questions that clarify the current beta testing functionality: 
 
 <h2>Why is Lota so different? Why doesn't it conform to colorless, dullness?</h2>
-Lota is about color! Its celebrating diverse cultural urban expression! 
+Lota is about color! Its about celebrating diverse cultural urban expression! 
 <br>
 <h2>Can I send enriched colorful text and animated stickmojis to anyone on the contacts list, even if they do not have the app?</h2>
 <b>Yes!</b> Lota supports SMS/MMS, as well as Peer to Peer mode. Just click on the contact, type something and hit the send button. The message will be sent via MMS if the contact does not have the app.
