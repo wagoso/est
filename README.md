@@ -12,7 +12,7 @@ If the contact has the app, the enriched text message will be sent directly via 
 <h2>How can I change the default chat background?</h2>
 In the Main contact screen, select the top right drop down "Select background" option. Choose either a background image or color of your preference.
 <br/>
-<h2>How can I turn on/off automatic reading our loud (text to speech) of my incoming messages?</h2>
+<h2>How can I turn on/off automatic reading out loud (text to speech) of my incoming messages?</h2>
 In the Chat screen, select the  "Settings" button to the left of the "Upload button"  at the top right of the screen and toggle the "Text speech reader" button.
 <br/>
 <h2>What is "Recents" tab in the Main contact screen?</h2>
@@ -61,7 +61,7 @@ In the Chat screen, select the  "Upload" button at the top right of the screen a
 <h2>What is "Spangle Bangle"?</h2>
 Try it out! the app is still in beta, so cool things just need to be explored!
 <br/>
-<h2>How can I automatically send a translatd text message from English to slang or another language?</h2>
+<h2>How can I automatically send a translated text message from English to slang or another language?</h2>
 In the Chat screen, select the  "Settings" button to the left of the "Upload button"  at the top right of the screen and select the "Slang" (or another language) from the second drop down menu.
 <br/>
 <h2>How can I turn on/off playing audio automatically?</h2>
