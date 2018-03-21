@@ -16,7 +16,7 @@ In the Main contact screen, select the top right drop down "Select background" o
 In the Chat screen, select the  "Settings" button to the left of the "Upload button"  at the top right of the screen and toggle the "Text speech reader" button.
 <br/>
 <h2>What is "Recents" tab in the Main contact screen?</h2>
-"Recents" contains a list of contacts that you messaged. The "Contact" tab, has a list of all your contacts.
+"Recents" contains a list of contacts that you messaged. The "Contact" tab has a list of all your contacts.
 <br/>
 <h2>How can I send an enriched colorful text message to a contact?</h2>
 In the Main contact screen, click on a contact in either the "Recent" or "Contact" tab. The Chat screen will appear where you can type. By default, your message will be colorful with glow and graffiti font. You can change the style, font, filters, colors, and animations to suite your preference. Once you entered text, your enriched message will be sent to your contact either thru MMS or directly via your Internet connection.
